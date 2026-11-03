@@ -55,4 +55,4 @@ print("Total Amount:", amount)
 
 ## Author
 
-Ranbeersingh Dhanawat
+Hardhik Srinivas Erat
